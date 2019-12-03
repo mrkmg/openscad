@@ -446,8 +446,9 @@ set(CORE_SOURCES
   src/dxfdata.cc 
   src/dxfdim.cc 
   src/offset.cc 
-  src/linearextrude.cc 
-  src/rotateextrude.cc 
+  src/linearextrude.cc
+  src/rotateextrude.cc
+  src/offsetextrude.cc
   src/text.cc 
   src/printutils.cc 
   src/fileutils.cc 
